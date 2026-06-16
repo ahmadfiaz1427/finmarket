@@ -1,0 +1,6 @@
+{
+  "name": "FinMarket - Crypto & Metals",
+  "description": "A modern financial market dashboard for Cryptocurrencies, Gold, Silver, and Market Trends with AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
